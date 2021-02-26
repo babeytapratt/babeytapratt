@@ -9,4 +9,5 @@ I am available around the web🌎
 - 📫 How to reach me: https://www.linkedin.com/in/brian-abeyta-pratt-9758991ba/, babeytapratt@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love to sing, dance and act.
+-  skilled in ReactJS, Node, Express, JavaScript, ReactRedux
 
